@@ -11,8 +11,8 @@ $pluginBlacklistUrl = "https://goatcorp.github.io/DalamudAssets/UIRes/bannedplug
 $wc = New-Object system.Net.WebClient
 $blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
 
-$dlTemplateInstall = "https://kamori.goats.dev/Plugin/Download/{0}?isUpdate=False&isTesting={1}&branch=api6"
-$dlTemplateUpdate = "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api6/{0}/{1}/latest.zip"
+$dlTemplateInstall = "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/{0}/{1}/latest.zip"
+$dlTemplateUpdate = "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/{0}/{1}/latest.zip"
 
 $apiLevel = 6
 
@@ -93,10 +93,10 @@ Foreach-Object {
     }
     $content | add-member -Force -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
-    $installLink = $dlTemplateInstall -f $internalName, "False"
+    $installLink = $dlTemplateUpdate -f "plugins", $internalName
     $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
     
-    $installLink = $dlTemplateInstall -f $internalName, "True"
+    $installLink = $dlTemplateUpdate -f "plugins", $internalName
     $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
     $updateLink = $dlTemplateUpdate -f "plugins", $internalName
@@ -145,10 +145,10 @@ Foreach-Object {
         }
         $content | add-member -Force -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
-        $installLink = $dlTemplateInstall -f $internalName, "True"
+        $installLink = $dlTemplateUpdate -f "plugins", $internalName
         $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
         
-        $installLink = $dlTemplateInstall -f $internalName, "True"
+        $installLink = $dlTemplateUpdate -f "plugins", $internalName
         $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
         $updateLink = $dlTemplateUpdate -f "plugins", $internalName
