@@ -87,7 +87,7 @@ Foreach-Object {
 
     $internalName = $content.InternalName
     
-    $updateDate = git log -1 --pretty="format:%ct" plugins/$internalName/latest.zip
+    $updateDate = git log -1 --pretty="format:%ct" -- plugins/$internalName/latest.zip
     if ($updateDate -eq $null){
         $updateDate = 0;
     }
@@ -139,7 +139,7 @@ Foreach-Object {
 
         $internalName = $content.InternalName
         
-        $updateDate = git log -1 --pretty="format:%ct" testing/$internalName/latest.zip
+        $updateDate = git log -1 --pretty="format:%ct" -- testing/$internalName/latest.zip
         if ($updateDate -eq $null){
             $updateDate = 0;
         }
