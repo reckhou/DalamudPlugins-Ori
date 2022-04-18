@@ -160,8 +160,7 @@ Foreach-Object {
 
 $outputStr = $output | ConvertTo-Json -AsArray
 
-#Out-File -FilePath .\pluginmaster.json -InputObject $outputStr
-
+echo "Please make sure you have installed POWERSHELL 7 or -AsArray won't work!"
 $Utf8NoBomEncoding = New-Object System.Text.UTF8Encoding $False
 $outputFilePath = Join-Path (Get-Item -Path ".\pluginmaster.json").DirectoryName "pluginmaster.json"
 [System.IO.File]::WriteAllLines($outputFilePath, $outputStr, $Utf8NoBomEncoding)
