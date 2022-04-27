@@ -2,7 +2,7 @@
   "Author": "akira0245, modified by Ori",
   "Name": "MidiBard",
   "InternalName": "MidiBard",
-  "AssemblyVersion": "1.9.3.1",
+  "AssemblyVersion": "1.9.3.2",
   "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/reckhou/MidiBard",
