@@ -38,9 +38,32 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 69894,
-    "LastUpdate": "1650249588",
+    "LastUpdate": "1651029415",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip"
+  },
+  {
+    "Author": "akira0245, maintained by Ori",
+    "Name": "WindowSizeUnlock",
+    "InternalName": "WindowSizeUnlock",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Unlocks FF14 window size limitation.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/reckhou/DalamudPlugins-Ori",
+    "Tags": [
+      "utility"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "",
+    "Punchline": "Unlocks window size limitation.",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/WindowSizeUnlock/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/WindowSizeUnlock/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/WindowSizeUnlock/latest.zip"
   }
 ]
