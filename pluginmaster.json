@@ -22,7 +22,7 @@
     "Author": "akira0245, modified by Ori",
     "Name": "MidiBard",
     "InternalName": "MidiBard",
-    "AssemblyVersion": "1.9.4.0",
+    "AssemblyVersion": "1.9.4.1",
     "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reckhou/MidiBard",
@@ -38,7 +38,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 69894,
-    "LastUpdate": "1651029415",
+    "LastUpdate": "1652713237",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip"
