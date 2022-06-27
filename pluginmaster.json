@@ -47,8 +47,33 @@
     "Author": "akira0245, Ori, SpuriousSnail86",
     "Name": "MidiBard 2",
     "InternalName": "MidiBard2",
+    "AssemblyVersion": "2.0.0.3",
+    "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/reckhou/MidiBard2",
+    "Tags": [
+      "bard",
+      "sound",
+      "utility"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "IconUrl": "https://i.imgur.com/2Lr2Che.png",
+    "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 5684,
+    "LastUpdate": "1656355254",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
+  },
+  {
+    "Author": "akira0245, Ori, SpuriousSnail86",
+    "Name": "MidiBard 2 - Preview",
+    "InternalName": "MidiBard2Preview",
     "AssemblyVersion": "2.0.2.2",
-    "Description": "[WARNING] MidiBard 2 is under BETA stage, it's mostly stable but you may still experience bugs/crashes.\nBard performance using midi files or keyboard.\n- HSCM controller support\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+    "Description": "[WARNING] This is the preview build of MidiBard 2, it's mostly stable but you may still experience bugs/crashes.\nBard performance using midi files or keyboard.\n- HSCM controller support\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reckhou/MidiBard2",
     "Tags": [
@@ -62,11 +87,11 @@
     "Punchline": "[BETA] Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "LastUpdate": "1656205452",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
+    "DownloadCount": 1027,
+    "LastUpdate": 1656355254,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip"
   },
   {
     "Author": "akira0245, maintained by Ori",
