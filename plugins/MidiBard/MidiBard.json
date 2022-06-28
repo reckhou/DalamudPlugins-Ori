@@ -5,14 +5,13 @@
   "AssemblyVersion": "2.0.0.3",
   "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/reckhou/MidiBard",
+  "RepoUrl": "https://midibard.crd.co/",
   "Tags": [
-    "bard",
-    "sound",
-    "utility"
+    "Jobs",
+    "Utility"
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "IconUrl": "https://i.imgur.com/drMuEor.png",
-  "Punchline": "Bard performance using midi files or keyboard."
+  "Punchline": "[NO LONGER RECEIVING FUTURE UPDATES, PLEASE UPGRADE TO MIDIBARD 2!]\nBard performance using midi files or keyboard."
 }
