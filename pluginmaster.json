@@ -37,7 +37,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 69894,
-    "LastUpdate": "1656263099",
+    "LastUpdate": "1656456506",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip"
@@ -49,11 +49,10 @@
     "AssemblyVersion": "2.0.0.3",
     "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/reckhou/MidiBard2",
+    "RepoUrl": "https://midibard.crd.co/",
     "Tags": [
-      "bard",
-      "sound",
-      "utility"
+      "Jobs",
+      "Utility"
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -61,7 +60,7 @@
     "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 16531,
     "LastUpdate": "1656356306",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
@@ -74,11 +73,10 @@
     "AssemblyVersion": "2.0.2.2",
     "Description": "[WARNING] This is the preview build of MidiBard 2, it's mostly stable but you may still experience bugs/crashes.\nBard performance using midi files or keyboard.\n- HSCM controller support\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/reckhou/MidiBard2",
+    "RepoUrl": "https://midibard.crd.co/",
     "Tags": [
-      "bard",
-      "sound",
-      "utility"
+      "Jobs",
+      "Utility"
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -86,7 +84,7 @@
     "Punchline": "[BETA] Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 0,
+    "DownloadCount": 1214,
     "LastUpdate": "1656356306",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",

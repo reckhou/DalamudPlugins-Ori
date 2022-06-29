@@ -5,11 +5,10 @@
   "AssemblyVersion": "2.0.0.3",
   "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/reckhou/MidiBard2",
+  "RepoUrl": "https://midibard.crd.co/",
   "Tags": [
-    "bard",
-    "sound",
-    "utility"
+    "Jobs",
+    "Utility"
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
