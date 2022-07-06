@@ -3,7 +3,7 @@
     "Author": "Caraxi, Modified by Ori",
     "Name": "Macro Chain-Ori",
     "InternalName": "MacroChain-Ori",
-    "AssemblyVersion": "2.1.0.3",
+    "AssemblyVersion": "2.1.0.4",
     "Description": "Allows for a macro to continue onto the next macro by using '/nextmacro' on the last line of a macro.\nAdding '/nextmacro' on the last line of Macro #01 will automatically execute Macro #02\nAdding '/nextmacro down' on the last line of Macro #01 will automatically execute Macro #11\nAlso allows executing any macro from chat using '/runmacro' but this command cannot be used while macros are running.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/reckhou/MacroChain/tree/PartyChatCommands",
@@ -85,7 +85,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1612,
-    "LastUpdate": "1656854818",
+    "LastUpdate": "1657123699",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip"
