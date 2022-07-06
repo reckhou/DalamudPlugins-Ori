@@ -13,7 +13,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1359,
-    "LastUpdate": "1656161747",
+    "LastUpdate": "1657148849",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip"
@@ -70,7 +70,7 @@
     "Author": "akira0245, Ori, SpuriousSnail86",
     "Name": "MidiBard 2 - Preview",
     "InternalName": "MidiBard2Preview",
-    "AssemblyVersion": "2.0.2.4",
+    "AssemblyVersion": "2.0.2.5",
     "Description": "[WARNING] This is the preview build of MidiBard 2, it's mostly stable but you may still experience bugs/crashes.\nBard performance using midi files or keyboard.\n- HSCM controller support\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
     "RepoUrl": "https://midibard.crd.co/",
