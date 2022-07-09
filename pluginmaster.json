@@ -19,30 +19,6 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip"
   },
   {
-    "Author": "akira0245, modified by Ori",
-    "Name": "MidiBard",
-    "InternalName": "MidiBard",
-    "AssemblyVersion": "2.0.0.3",
-    "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://midibard.crd.co/",
-    "Tags": [
-      "Jobs",
-      "Utility"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "IconUrl": "https://i.imgur.com/drMuEor.png",
-    "Punchline": "[NO LONGER RECEIVING FUTURE UPDATES, PLEASE UPGRADE TO MIDIBARD 2!]\nBard performance using midi files or keyboard.",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 102774,
-    "LastUpdate": "1656456506",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard/latest.zip"
-  },
-  {
     "Author": "akira0245, Ori, SpuriousSnail86",
     "Name": "MidiBard 2",
     "InternalName": "MidiBard2",
@@ -85,7 +61,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1612,
-    "LastUpdate": "1657123699",
+    "LastUpdate": "1657149585",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2Preview/latest.zip"
