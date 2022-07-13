@@ -22,13 +22,13 @@
     "Author": "akira0245, Ori, SpuriousSnail86",
     "Name": "MidiBard 2",
     "InternalName": "MidiBard2",
-    "AssemblyVersion": "2.0.0.3",
+    "AssemblyVersion": "2.0.0.4",
     "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
     "RepoUrl": "https://midibard.crd.co/",
-    "Tags": [
-      "Jobs",
-      "Utility"
+    "CategoryTags": [
+      "utility",
+      "other"
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
