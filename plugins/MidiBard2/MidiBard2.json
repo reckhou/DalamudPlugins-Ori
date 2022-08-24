@@ -2,7 +2,7 @@
   "Author": "akira0245, Ori",
   "Name": "MidiBard 2",
   "InternalName": "MidiBard2",
-  "AssemblyVersion": "2.1.7.5",
+  "AssemblyVersion": "2.2.3.1",
   "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
   "ApplicableVersion": "any",
   "RepoUrl": "https://midibard.org/",
@@ -10,8 +10,12 @@
     "utility",
     "other"
   ],
-  "DalamudApiLevel": 6,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "IconUrl": "https://i.imgur.com/2Lr2Che.png",
-  "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard"
+  "ImageUrls": [
+    "https://i.imgur.com/1R13XF0.png"
+  ],
+  "IconUrl": "https://i.imgur.com/OSxqew4.png",
+  "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+  "Changelog": "API7, .NET 6.0.\nKnown Issue: Sometimes your guitar always sound as overdriven LOCALLY. This only affects yourself and will NOT affect what others hear your guitar(you may use an alt to verify this)."
 }
