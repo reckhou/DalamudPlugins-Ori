@@ -7,5 +7,4 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 
 | Author | Name | Description |
 |---------------|---------------|-----------------|
-| akira0245, Ori | [MidiBard 2 - Preview](https://midibard.org) | Bard performance using midi files or keyboard.<br>- Solo and ensemble mode support<br>- Text commands for instrument equip and switch<br>Supported by FFXIV Bards & Bands Community: discord.gg/ff14bard |
 
