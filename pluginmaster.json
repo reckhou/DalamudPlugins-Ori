@@ -30,7 +30,7 @@
     "Author": "akira0245, Ori",
     "Name": "MidiBard 2",
     "InternalName": "MidiBard2",
-    "AssemblyVersion": "2.5.0.0",
+    "AssemblyVersion": "2.5.1.0",
     "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
     "RepoUrl": "https://midibard.org",
@@ -52,7 +52,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 61021,
-    "LastUpdate": "1674502217",
+    "LastUpdate": "1676506861",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
