@@ -2,7 +2,7 @@
   "Author": "akira0245, Ori",
   "Name": "MidiBard 2",
   "InternalName": "MidiBard2",
-  "AssemblyVersion": "2.5.3.1",
+  "AssemblyVersion": "2.5.4.0",
   "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
   "ApplicableVersion": "any",
   "RepoUrl": "https://midibard.org",
@@ -10,15 +10,16 @@
     "utility",
     "other"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://i.imgur.com/1R13XF0.png"
   ],
   "IconUrl": "https://i.imgur.com/OSxqew4.png",
   "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-  "Changelog": "Update after 6.4.\nFixed electric guitar UI issue.",
+  "Changelog": "Updated for patch 6.5",
   "AcceptsFeedback": false
 }
