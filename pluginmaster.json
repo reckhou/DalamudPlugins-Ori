@@ -1,36 +1,9 @@
 [
   {
-    "Author": "Caraxi, Modified by Ori",
-    "Name": "Macro Chain-Ori",
-    "InternalName": "MacroChain-Ori",
-    "AssemblyVersion": "999.999.999.999",
-    "Description": "This is the final update of Macro Chain-Ori, there will be no further updates and we strongly recommend you to switch to QoL Bar + Bard Toolbox for syncing emotes and macros.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/reckhou/MacroChain/tree/PartyChatCommands",
-    "CategoryTags": [
-      "utility",
-      "other"
-    ],
-    "DalamudApiLevel": 8,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "LoadPriority": 0,
-    "Punchline": "THIS IS THE FINAL UPDATE, PLEASE SWITCH TO Bard Toolbox + QoL Bar AS EARLY AS YOU MAY!",
-    "Changelog": "API8, .NET 7.0.",
-    "AcceptsFeedback": false,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 1359,
-    "LastUpdate": "1673637474",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MacroChain-Ori/latest.zip"
-  },
-  {
     "Author": "akira0245, Ori",
     "Name": "MidiBard 2",
     "InternalName": "MidiBard2",
-    "AssemblyVersion": "2.6.0.0",
+    "AssemblyVersion": "2.6.0.1",
     "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
     "RepoUrl": "https://midibard.org",
@@ -55,7 +28,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 162011,
-    "LastUpdate": "1698518765",
+    "LastUpdate": "1720457742",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
