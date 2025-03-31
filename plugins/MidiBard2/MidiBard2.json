@@ -2,7 +2,7 @@
   "Author": "akira0245, Ori, Maintained by Kalle",
   "Name": "MidiBard 2",
   "InternalName": "MidiBard2",
-  "AssemblyVersion": "2.7.1.0",
+  "AssemblyVersion": "2.7.1.1",
   "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
   "ApplicableVersion": "any",
   "RepoUrl": "https://midibard.org",
@@ -22,6 +22,6 @@
   ],
   "IconUrl": "https://i.imgur.com/OSxqew4.png",
   "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-  "Changelog": "Dawntrail 7.2 Update. Upgraded to Dalamud API 12.",
+  "Changelog": "Dawntrail 7.2 Update. Upgraded to Dalamud API 12. Adding option for skipping blank MIDI beginning section.",
   "AcceptsFeedback": false
 }
