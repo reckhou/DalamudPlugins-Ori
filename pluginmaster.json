@@ -31,6 +31,9 @@
     "LastUpdate": "1789259309",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/latest.zip",
+    "TestingAssemblyVersion": "3.2.5.3",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/reckhou/DalamudPlugins-Ori/api6/plugins/MidiBard2/testing.zip",
+    "TestingDalamudApiLevel": "15"
   }
 ]
